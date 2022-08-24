@@ -42,7 +42,7 @@
 ✔️ Contact Me\
 ✔️ Footer
 
-To view a live example, **[click here](https://shubhansu-kr/shubhansu-kr.github.io/)**
+To view a live example, **[click here](https://shubhansu-kr.github.io/)**
 
 ## Tools Used 🛠️
 
